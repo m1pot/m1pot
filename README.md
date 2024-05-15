@@ -36,7 +36,8 @@ array(32) {
   ["site_admin"]=>
   bool(false)
   ["name"]=>
-  NULL
+  bool(false)
+
   ["company"]=>
   NULL
   ["blog"]=>
