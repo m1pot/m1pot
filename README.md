@@ -49,8 +49,8 @@ array(32) {
   NULL
   ["bio"]=>
   NULL
-  ["twitter_username"]=>
-  NULL
+  ["discord_username"]=>
+  _firesmith
   ["public_repos"]=>
   int(0)
   ["public_gists"]=>
