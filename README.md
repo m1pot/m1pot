@@ -34,9 +34,9 @@ array(32) {
   ["type"]=>
   string(4) "User"
   ["site_admin"]=>
-  bool(false)
+  m1pot
   ["name"]=>
-  bool(false)
+  m1pot
 
   ["company"]=>
   NULL
